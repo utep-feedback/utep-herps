@@ -1,0 +1,427 @@
+Report for Institution Code UTEP, Resource utep_herp
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 401
+Number of records retrieved in searches: 3092
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: Unknown ; Times: 24
+	Country: Philippines ; Times: 4
+	Country: India ; Times: 4
+	Country: United States ; Times: 287
+	Country: Sweden ; Times: 10
+	Country: China ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 4
+	Country: Argentina ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 8
+	Date: 2019-10-08 ; Times: 9
+	Date: 2019-10-21 ; Times: 20
+	Date: 2019-10-20 ; Times: 11
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 4
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-22 ; Times: 55
+	Date: 2019-10-01 ; Times: 4
+	Date: 2019-10-03 ; Times: 7
+	Date: 2019-10-02 ; Times: 2
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-04 ; Times: 6
+	Date: 2019-10-07 ; Times: 10
+	Date: 2019-10-06 ; Times: 2
+	Date: 2019-10-23 ; Times: 29
+	Date: 2019-10-24 ; Times: 39
+	Date: 2019-10-29 ; Times: 6
+	Date: 2019-10-18 ; Times: 6
+	Date: 2019-10-19 ; Times: 10
+	Date: 2019-10-12 ; Times: 1
+	Date: 2019-10-13 ; Times: 5
+	Date: 2019-10-10 ; Times: 11
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-16 ; Times: 16
+	Date: 2019-10-31 ; Times: 20
+	Date: 2019-10-14 ; Times: 6
+	Date: 2019-10-17 ; Times: 18
+	Date: 2019-10-15 ; Times: 48
+	Date: 2019-10-28 ; Times: 17
+	Date: 2019-10-30 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "Conopsis biserialis" ; Times: 2
+	Query: "Lithobates chiricahuensis 1974" ; Times: 1
+	Query: "Xenopus mellotropicalis" ; Times: 1
+	Query: "specificepithet:undulatus genus:Sceloporus institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "boa constrictor mappable:1" ; Times: 1
+	Query: "leptodactylus sinaloa" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2019" ; Times: 1
+	Query: "Xenopus lenduensis" ; Times: 1
+	Query: "craugastor vocalis sinaloa" ; Times: 2
+	Query: "10109" ; Times: 2
+	Query: "anaxyrus tlaxcala" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus institutioncode:UTEP" ; Times: 6
+	Query: "hypsiglena torquata sinaloa" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 1
+	Query: "peccary" ; Times: 1
+	Query: "country:&#34;Mexico&#34; institutioncode:UTEP" ; Times: 1
+	Query: "plestiodon tetragrammus" ; Times: 6
+	Query: "thamnophis cyrtopsis sinaloa" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "masticophis mentovarius sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 1984" ; Times: 1
+	Query: "anolis sinaloa" ; Times: 4
+	Query: "Cardioglossa congolia" ; Times: 1
+	Query: "specificepithet:Nasicus genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sylvaticus Lithobates" ; Times: 2
+	Query: "Lithobates chiricahuensis" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 2
+	Query: "11188" ; Times: 1
+	Query: "specificepithet:cowlesi genus:sceloporus hastissue:1" ; Times: 1
+	Query: "leptodeira punctata sinaloa" ; Times: 1
+	Query: "pseudoficimia frontalis sinaloa" ; Times: 1
+	Query: "reptile distance(location,geopoint(25.63095683527129,-117.64575537939027))&lt;419022.4108640144" ; Times: 1
+	Query: "hyla colima" ; Times: 1
+	Query: "specificepithet:megalura genus:trachylepis year &gt;= 1990" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1972" ; Times: 1
+	Query: "specificepithet:tristichus genus:sceloporus hastissue:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus stateprovince:&#34;Chiapas&#34;" ; Times: 1
+	Query: "Phyllodactylus Guerrero" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "diadophis punctatus sinaloa" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:berus genus:Vipera country:&#34;Germany&#34;" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "sceloporus heterolepis sinaloa" ; Times: 1
+	Query: "specificepithet:dekayi genus:Storeria year &gt;= 1970 year &lt;= 2019" ; Times: 2
+	Query: "Kaloula pulchra" ; Times: 2
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "Agkistrodon sinaloa" ; Times: 2
+	Query: "Crotalus oreganus concolor" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "streckeri Pseudacris" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus hastissue:1" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:walkeri genus:Hyla country:&#34;Mexico&#34;" ; Times: 2
+	Query: "sceloporus nelsoni sinaloa" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Douglas&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sceloporus institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "crotalus lepidus new mexico" ; Times: 1
+	Query: "mastigodryas cliftoni sinaloa" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 2
+	Query: "Sistrurus catenatus 2006" ; Times: 1
+	Query: "Sistrurus catenatus 2007" ; Times: 1
+	Query: "Sistrurus catenatus 2001" ; Times: 1
+	Query: "genus:Agama institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "Phrynobatrachus asper" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "trachemys ornata sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 2009" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "reptile distance(location,geopoint(27.146488761749257,-116.23950537939027))&lt;313938.6664400704" ; Times: 1
+	Query: "crotalus basiliscus sinaloa" ; Times: 2
+	Query: "family:helodermatidae haslength:1" ; Times: 2
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "Lithobates maculatus" ; Times: 1
+	Query: "genus:Holbrookia county:&#34;Hudspeth&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "neotenic genus:Ambystoma" ; Times: 4
+	Query: "class:Amphibia stateprovince:&#34;Mississippi&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "sphaerodactylus nicholsi" ; Times: 1
+	Query: "lengthinmm &gt;= 200 lengthinmm &lt;= 1000 lengthtype:snout-vent length range" ; Times: 1
+	Query: "Thamnophis sinaloa" ; Times: 1
+	Query: "ctenosaura pectinata sinaloa" ; Times: 1
+	Query: "Lithobates chiricahuensis 2010" ; Times: 1
+	Query: "Lithobates chiricahuensis 2011" ; Times: 1
+	Query: "Leptodeira nigrofasciata" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "lithobates berlandieri" ; Times: 1
+	Query: "Lithobates chiricahuensis 2019" ; Times: 1
+	Query: "specificepithet:compactilis stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "thamnophis proximus mexico" ; Times: 2
+	Query: "Hyperolius leucotaenius" ; Times: 1
+	Query: "hypsiglena sinaloa" ; Times: 3
+	Query: "kirtlandii basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Texas genus:sonora" ; Times: 2
+	Query: "specificepithet:hernandesi genus:phrynosoma hastissue:1" ; Times: 1
+	Query: "Anaxyrus mexicanus" ; Times: 2
+	Query: "Thamnophis rufipunctatus 2006" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Tantilla institutioncode:UTEP" ; Times: 1
+	Query: "Hyperolius constellatus" ; Times: 1
+	Query: "Loxocemus bicolor" ; Times: 2
+	Query: "Vipera ammodytes" ; Times: 3
+	Query: "gyalopion sinaloa" ; Times: 2
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "sceloporus jarrovi sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 2019" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Miami&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Mexico&#34; AND (NOT argus NOT millepunctatus)" ; Times: 1
+	Query: "Sistrurus catenatus 1972" ; Times: 1
+	Query: "nubicola" ; Times: 1
+	Query: "Lithobates chiricahuensis 2006" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "Lithobates capito" ; Times: 2
+	Query: "boiga irregularis distance(location,geopoint(13.347117060502045,144.7082049473554))&lt;100000" ; Times: 1
+	Query: "crotalus willardi" ; Times: 16
+	Query: "Storeria dekayi year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:Phrynosoma institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "Storeria dekayi hastissue:1" ; Times: 1
+	Query: "Lithobates chiricahuensis 2007" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Mexico&#34; AND (NOT argus)" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 2
+	Query: "genus:phrynosoma institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "Leptopelis mtoewaate" ; Times: 1
+	Query: "heterodon nasicus" ; Times: 1
+	Query: "ctenosaura sinaloa" ; Times: 2
+	Query: "sceloporus bulleri sinaloa" ; Times: 2
+	Query: "reptile distance(location,geopoint(26.243494989515362,-117.97534522314027))&lt;394383.57014031" ; Times: 1
+	Query: "Lithobates chiricahuensis 1975" ; Times: 1
+	Query: "Lithobates chiricahuensis 1977" ; Times: 1
+	Query: "Sistrurus catenatus 2011" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "Aspidoscelis sexlineatus mappable:1" ; Times: 1
+	Query: "genus:Ptychohyla specificepithet:leonhardschultzei" ; Times: 1
+	Query: "Sistrurus catenatus 1980" ; Times: 1
+	Query: "Lithobates chiricahuensis 1979" ; Times: 1
+	Query: "Sistrurus catenatus 1982" ; Times: 1
+	Query: "conopsis sinaloa" ; Times: 2
+	Query: "rhinocheilus sinaloa" ; Times: 2
+	Query: "specificepithet:Kennerlyi genus:Heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "reptile distance(location,geopoint(25.63095683527129,-117.64575537939027))&lt;447676" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Ambystoma" ; Times: 3
+	Query: "Boiga irregularis" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 4
+	Query: "specificepithet:piscivorus genus:Agkistrodon county:&#34;Covington&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:tristichus genus:Sceloporus institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "family:helodermatidae" ; Times: 1
+	Query: "genus:Gymnophthalmus country:&#34;Mexico&#34; AND (NOT argus NOT millepunctatus)" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Washington&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Craugastor specificepithet:rhodopis" ; Times: 1
+	Query: "craugastor colima" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Mississippi&#34; hastissue:1" ; Times: 3
+	Query: "Haldea striatula" ; Times: 1
+	Query: "genus:Amietia specificepithet:desaegeri" ; Times: 1
+	Query: "specificepithet:cowlesi genus:Sceloporus institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "leptodeira maculata sinaloa" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "boiga irregularis" ; Times: 1
+	Query: "hispaniola typhlops" ; Times: 1
+	Query: "callisaurus sinaloa" ; Times: 3
+	Query: "scaphiopus couchi sinaloa" ; Times: 1
+	Query: "Sistrurus catenatus 2017" ; Times: 1
+	Query: "Imantodes cenchoa mappable:1" ; Times: 1
+	Query: "genus:Crotalus hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Center for Biological Research Collections" ; Times: 1
+	Query: "specificepithet:simus genus:Heterodon stateprovince:&#34;Florida&#34; year &gt;= 1995 year &lt;= 2019" ; Times: 1
+	Query: "Sistrurus catenatus 1995" ; Times: 1
+	Query: "M 1607" ; Times: 1
+	Query: "Chilomeniscus stramineus" ; Times: 1
+	Query: "county:&#34;zacatecas&#34; stateprovince:&#34;zacatecas&#34;" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;Mississippi&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus county:&#34;Greene&#34; stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Basking" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 3
+	Query: "genus:Sistrurus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;Alabama&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Alabama&#34; institutioncode:UTEP basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "class:Amphibia distance(location,geopoint(30.542561803259982,-88.78294056971725))&lt;30163.55336332461" ; Times: 1
+	Query: "Sistrurus catenatus 2005" ; Times: 1
+	Query: "Xenopus itombwensis" ; Times: 3
+	Query: "genus:hemidactylus institutioncode:UTEP hastissue:1" ; Times: 1
+	Query: "Lithobates zweifeli" ; Times: 3
+	Query: "stereochilus" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "holbrookia elegans sinaloa" ; Times: 2
+	Query: "Lithobates chiricahuensis 1984" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Anaxyrus quercicus" ; Times: 1
+	Query: "Vipera kaznakovi" ; Times: 1
+	Query: "Plestiodon laticeps mappable:1" ; Times: 1
+	Query: "genus:Psammophylax" ; Times: 1
+	Query: "Sistrurus catenatus 2003" ; Times: 1
+	Query: "crotalus willardi mexico" ; Times: 6
+	Query: "specificepithet:compactilis stateprovince:&#34;durango&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "sonora occipitalis" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 2
+	Query: "pseudacris fouquettei" ; Times: 2
+	Query: "specificepithet:compactilis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla institutioncode:UTEP" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1985" ; Times: 1
+	Query: "Thamnophis rufipunctatus 1984" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;Florida&#34; year &gt;= 1990" ; Times: 1
+	Query: "family:Bufonidae stateprovince:&#34;hidalgo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tantilla institutioncode:UTEP" ; Times: 1
+	Query: "gastrophryne elegans" ; Times: 1
+	Query: "hyla tlaxcala" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Lithobates chiricahuensis 2000" ; Times: 1
+	Query: "Sistrurus catenatus 2008" ; Times: 1
+	Query: "Lithobates chiricahuensis 1995" ; Times: 1
+	Query: "nerodia harteri" ; Times: 5
+	Query: "craugastor state of mexico" ; Times: 1
+	Query: "thamnophis melanogaster state of mexico" ; Times: 1
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "Sistrurus catenatus 1996" ; Times: 1
+	Query: "Lithobates chiricahuensis 2005" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "lengthinmm &gt;= 100 lengthinmm &lt;= 200 lengthtype:snout-vent length range" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "ursinii" ; Times: 2
+	Query: "Leptopelis anebos" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:taylori" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "UTEP 21438" ; Times: 1
+	Query: "specificepithet:consobrinus genus:sceloporus hastissue:1" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2000" ; Times: 1
+	Query: "Thamnophis rufipunctatus 2007" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Mexico&#34; institutioncode:UTEP" ; Times: 2
+	Query: "genus:Sceloporus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "19803" ; Times: 1
+	Query: "county:&#34;Ocosingo&#34; stateprovince:&#34;Chiapas&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "coleonyx mexico" ; Times: 1
+	Query: "specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "genus:Holbrookia stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:aspis genus:Vipera country:&#34;Italy&#34;" ; Times: 1
+	Query: "specificepithet:ornatus genus:urosaurus hastissue:1" ; Times: 2
+	Query: "Thamnophis rufipunctatus 1997" ; Times: 1
+	Query: "Craugastor montanus" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+	Query: "Triprion spatulatus" ; Times: 2
+	Query: "smilisca baudini sinaloa" ; Times: 1
+	Query: "arborea Hyla" ; Times: 2
+	Query: "specificepithet:nigriceps genus:Tantilla stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Lithobates chiricahuensis 1981" ; Times: 1
+	Query: "Drymobius margaritiferus mappable:1" ; Times: 1
+	Query: "Pantherophis guttatus mappable:1" ; Times: 1
+	Query: "specificepithet:hobartsmithi genus:Tantilla stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "agalychnis dacnicolor sinaloa" ; Times: 2
+	Query: "Incilius tutelarius" ; Times: 1
+	Query: "sceloporus torquatus" ; Times: 5
+	Query: "family:helodermatidae &#34;snout vent length&#34;" ; Times: 1
+	Query: "Sauromalus" ; Times: 16
+	Query: "macrodactylum Ambystoma" ; Times: 16
+	Query: "kinosternon integrum sinaloa" ; Times: 3
+	Query: "Sceloporus torquatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 87 (out of 1308 download events in this period)
+Total number of records downloaded: 3447
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 11
+	Country: Philippines ; Times: 4
+	Country: India ; Times: 3
+	Country: United States ; Times: 29
+	Country: Germany ; Times: 1
+	Country: China ; Times: 8
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 19
+	Date: 2019-10-21 ; Times: 7
+	Date: 2019-10-20 ; Times: 8
+	Date: 2019-10-27 ; Times: 2
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-06 ; Times: 1
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-19 ; Times: 8
+	Date: 2019-10-16 ; Times: 3
+	Date: 2019-10-10 ; Times: 3
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-30 ; Times: 11
+	Date: 2019-10-17 ; Times: 6
+	Date: 2019-10-15 ; Times: 4
+	Date: 2019-10-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Conopsis biserialis" ; Times: 1
+	Query: "order:Squamata basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Bufonidae vntype:specimen hastissue:1" ; Times: 3
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "genus:Sceloporus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:guttata family:emydidae" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 9
+	Query: "Hemidactylus mabouia" ; Times: 1
+	Query: "Leptopelis anebos" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "Xenopus mellotropicalis" ; Times: 2
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Chrysobatrachus cupreonitens" ; Times: 1
+	Query: "Phrynobatrachus asper" ; Times: 2
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Louisiana&#34; hastissue:1" ; Times: 1
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "sphaerodactylus nicholsi" ; Times: 1
+	Query: "vntype:specimen (Phrynosoma orbiculare) year &gt;= 1950 year &lt;= 2019 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "reptilia stateprovince:&#34;arizona&#34; distance(location,geopoint(33.9811704087733,-114.3090985705079))&lt;100000" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 4
+	Query: "Trimorphodon biscutatus" ; Times: 1
+	Query: "genus:Sceloporus stateprovince:&#34;Mississippi&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:compactilis family:Bufonidae" ; Times: 1
+	Query: "Cardioglossa congolia" ; Times: 1
+	Query: "reptilia stateprovince:&#34;nevada&#34; distance(location,geopoint(36.232556717823115,-120.1208661486329))&lt;338269.069619651" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:undulatus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "hispaniola typhlops" ; Times: 1
+	Query: "genus:Anolis hastissue:1" ; Times: 1
+	Query: "Hyperolius leucotaenius" ; Times: 2
+	Query: "specificepithet:contortrix genus:agkistrodon stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sceloporus stateprovince:&#34;Alabama&#34; hastissue:1" ; Times: 1
+	Query: "Pseudoficimia frontalis" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "Xenopus lenduensis" ; Times: 2
+	Query: "Hyperolius constellatus" ; Times: 2
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:consobrinus genus:Sceloporus hastissue:1" ; Times: 1
+	Query: "reptile distance(location,geopoint(31.59984735526638,-115.65597327765477))&lt;152164.6603398149" ; Times: 2
+	Query: "Gyalopion canum" ; Times: 1
+	Query: "vntype:specimen specificepithet:gularis genus:Aspidoscelis" ; Times: 1
+	Query: "chamaeleo chamaeleon" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+	Query: "Xenopus itombwensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "Lithobates Catesbeianus" ; Times: 1
+	Query: "genus:anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 2
+	Query: "sceloporus torquatus" ; Times: 3
+	Query: "family:helodermatidae &#34;snout vent length&#34;" ; Times: 1
+	Query: "Sonora occipitalis" ; Times: 1
+	Query: "Leptopelis mtoewaate" ; Times: 1
+	Query: "reptilia stateprovince:&#34;Oregon&#34;" ; Times: 1
+
+
+End of report.
