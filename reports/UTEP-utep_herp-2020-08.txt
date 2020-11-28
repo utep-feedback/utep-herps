@@ -1,0 +1,418 @@
+Report for Institution Code UTEP, Resource utep_herp
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 523
+Number of records retrieved in searches: 2968
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 468
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Sweden ; Times: 8
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Japan ; Times: 2
+	Country: Nicaragua ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-28 ; Times: 15
+	Date: 2020-08-07 ; Times: 7
+	Date: 2020-08-17 ; Times: 39
+	Date: 2020-08-16 ; Times: 7
+	Date: 2020-08-15 ; Times: 7
+	Date: 2020-08-14 ; Times: 8
+	Date: 2020-08-13 ; Times: 10
+	Date: 2020-08-12 ; Times: 12
+	Date: 2020-08-11 ; Times: 7
+	Date: 2020-08-10 ; Times: 10
+	Date: 2020-08-31 ; Times: 12
+	Date: 2020-08-30 ; Times: 2
+	Date: 2020-08-19 ; Times: 4
+	Date: 2020-08-18 ; Times: 9
+	Date: 2020-08-20 ; Times: 8
+	Date: 2020-08-08 ; Times: 14
+	Date: 2020-08-01 ; Times: 10
+	Date: 2020-08-02 ; Times: 5
+	Date: 2020-08-03 ; Times: 212
+	Date: 2020-08-04 ; Times: 9
+	Date: 2020-08-05 ; Times: 14
+	Date: 2020-08-06 ; Times: 9
+	Date: 2020-08-29 ; Times: 11
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-27 ; Times: 15
+	Date: 2020-08-24 ; Times: 4
+	Date: 2020-08-25 ; Times: 6
+	Date: 2020-08-22 ; Times: 9
+	Date: 2020-08-23 ; Times: 4
+	Date: 2020-08-09 ; Times: 26
+	Date: 2020-08-21 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus internasalis" ; Times: 1
+	Query: "Xenopus mellotropicalis" ; Times: 1
+	Query: "specificepithet:pricei genus:Crotalus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:amphiumidae stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Atractaspis corpulenta" ; Times: 1
+	Query: "Hyperolius rwandae" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "genus:Incilius specificepithet:spiculatus" ; Times: 1
+	Query: "Acris blanchardi Cherokee Kansas" ; Times: 2
+	Query: "12830" ; Times: 1
+	Query: "Ambystoma mabeei" ; Times: 4
+	Query: "specificepithet:berlandieri genus:Gopherus" ; Times: 2
+	Query: "Bogertophis subocularis" ; Times: 2
+	Query: "Pseudemys concinna Texas" ; Times: 1
+	Query: "specificepithet:sphenocephalus genus:Lithobates stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:velox stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "vntype:specimen specificepithet:marginatus genus:Stereochilus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:amphibia county:&#34;shelby&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:tarahumarae genus:lithobates stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "NM 3416" ; Times: 1
+	Query: "county:&#34;Copiah&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "TCWC" ; Times: 2
+	Query: "Hyperolius cinnamomeoventris" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:hirtipes genus:Kinosternon county:&#34;Presidio&#34;" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Incilius valliceps" ; Times: 1
+	Query: "Sceloporus consobrinus" ; Times: 4
+	Query: "Texas specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis viridis genus:Crotalus year &gt;= 1970 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "Aspidoscelis motaguae" ; Times: 8
+	Query: "Acris blanchardi cherokee county Kansas" ; Times: 1
+	Query: "specificepithet:dulcis genus:Rena" ; Times: 1
+	Query: "specificepithet:scincus genus:Teratoscincus institutioncode:UTEP" ; Times: 4
+	Query: "vntype:specimen specificepithet:guttolineata genus:Eurycea stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Cemophora coccinea stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34; AND (NOT XANTUSIA)" ; Times: 3
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Diadophis county:&#34;Copiah&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Texas specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "Texas genus:Diadophis" ; Times: 1
+	Query: "specificepithet:horrida genus:Homonota institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis genus:Crotalus year &gt;= 1980 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "genus:Drymarchon stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "genus:Aneides stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:Arenicolor genus:Hyla stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:clamitans genus:Lithobates stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:catenifer genus:Pituophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Sphaerodactylus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:2156 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "catalognumber:799 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:gentilis genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Varanus niloticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:mabeei genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Texas specificepithet:muticus genus:Trionyx" ; Times: 1
+	Query: "specificepithet:cyrtopsis genus:Thamnophis stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "pseudoficimia frontalis" ; Times: 1
+	Query: "genus:Masticophis institutioncode:UTEP" ; Times: 5
+	Query: "Sceloporus cyanogenys" ; Times: 1
+	Query: "lithobates grylio" ; Times: 1
+	Query: "Aneides aeneus" ; Times: 1
+	Query: "class:reptilia county:&#34;san augustine&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Salvadora lemniscata" ; Times: 1
+	Query: "catalognumber:2555 institutioncode:UTEP" ; Times: 2
+	Query: "class:reptilia county:&#34;sabine&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Riverside County ruber" ; Times: 2
+	Query: "mappable:1 scientificname:Pantherophis guttatus" ; Times: 1
+	Query: "genus:Hyla specificepithet:plicata" ; Times: 3
+	Query: "leptodeira splendida" ; Times: 1
+	Query: "Texas genus:Arizona" ; Times: 1
+	Query: "hemidactylus turcicus cameron" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "CRotalus willardi" ; Times: 1
+	Query: "hemidactylus turcicus texas" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "specificepithet:melanoleucus genus:Pituophis stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:800 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "stenorrhina degenhardtii" ; Times: 1
+	Query: "vipera" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis genus:Crotalus year &gt;= 2000 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "incilius nebulifer" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 3
+	Query: "specificepithet:cowlesi genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cognatus stateprovince:&#34;california&#34; year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "specificepithet:tuberculosus genus:Phyllodactylus institutioncode:UTEP" ; Times: 1
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "Leptodeira septentrionalis septentrionalis" ; Times: 1
+	Query: "specificepithet:quercicus genus:Anaxyrus stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:cognatus county:&#34;riverside&#34;" ; Times: 1
+	Query: "farancia" ; Times: 2
+	Query: "mappable:1 scientificname:Hemidactylus turcicus" ; Times: 1
+	Query: "Sceloporus real de catorce" ; Times: 1
+	Query: "Texas specificepithet:chrysoscelis genus:Hyla" ; Times: 1
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Stenorrhina degenhardtii" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;missouri&#34;" ; Times: 1
+	Query: "Atractaspis reticulata" ; Times: 2
+	Query: "Sierra Diablo" ; Times: 1
+	Query: "Gopherus berlandieri" ; Times: 1
+	Query: "specificepithet:nebulifer family:Bufonidae county:&#34;Bexar&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Gastrophryne stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus" ; Times: 89
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Lubbock&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "tcwc" ; Times: 2
+	Query: "symphimus leucostomus" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Texas genus:Hypsiglena" ; Times: 1
+	Query: "vntype:specimen specificepithet:chlorobryonis genus:Plethodon stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "bufo marinus texas" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "pituophis deppei" ; Times: 6
+	Query: "genus:Terrapene county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Aspidoscelis Hatch" ; Times: 1
+	Query: "catalognumber:2449 institutioncode:UTEP" ; Times: 2
+	Query: "conophis vittatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:variolatus genus:Plethodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Atractaspis irregularis" ; Times: 1
+	Query: "specificepithet:punctatus family:Bufonidae county:&#34;Val Verde&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hemidactylus mabouia texas" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "liopeltis" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "plestiodon multivirgatus" ; Times: 1
+	Query: "Leptopelis kivuensis" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 2
+	Query: "specificepithet:velox genus:aspidoscelis stateprovince:&#34;colorado&#34;" ; Times: 3
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "Heterodon simus" ; Times: 4
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Cochran&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:woodhousii family:Bufonidae county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UTEP 1263" ; Times: 1
+	Query: "Smilisca texas" ; Times: 2
+	Query: "NM 3396" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "vntype:specimen specificepithet:means genus:Amphiuma stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "genus:Drymarchon county:&#34;Monroe&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "class:Reptilia county:&#34;shelby&#34; stateprovince:&#34;texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "geophis laticinctus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "specificepithet:georgeensis genus:Aristelliger institutioncode:UTEP" ; Times: 5
+	Query: "specificepithet:woodhousii family:Bufonidae county:&#34;Wilson&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Anaxyrus kelloggi" ; Times: 1
+	Query: "specificepithet:lanei genus:Phyllodactylus institutioncode:UTEP" ; Times: 1
+	Query: "Texas specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus" ; Times: 114
+	Query: "stateprovince:&#34;North Carolina&#34; (amphiuma)" ; Times: 1
+	Query: "mappable:1 scientificname:Graptemys geographica" ; Times: 1
+	Query: "Chamaeleo chamaeleon spain" ; Times: 1
+	Query: "Texas specificepithet:clamitans genus:Lithobates" ; Times: 1
+	Query: "specificepithet:mauritanica genus:Tarentola institutioncode:UTEP" ; Times: 1
+	Query: "Anolis carolinensis specificepithet:carolinensis genus:Anolis country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:woodhousii county:&#34;Wilson&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:glaucus genus:Sphaerodactylus institutioncode:UTEP" ; Times: 4
+	Query: "NM 3391" ; Times: 1
+	Query: "locality:fern bank spring" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "Texas genus:Pseudemys" ; Times: 1
+	Query: "Lampropeltis abnorma" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus hassex:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:chamberlaini genus:Eurycea stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "hemidactylus frenatus texas" ; Times: 1
+	Query: "Texas specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "catalognumber:2758 institutioncode:UTEP" ; Times: 2
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Sceloporus minor" ; Times: 1
+	Query: "catalognumber:801 institutioncode:UTEP" ; Times: 2
+	Query: "Atractaspis bibronii" ; Times: 1
+	Query: "Texas specificepithet:palustris genus:Lithobates" ; Times: 1
+	Query: "specificepithet:clamitans genus:Lithobates stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "family:salamandridae stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:gentilis genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:browni genus:Phyllorhynchus" ; Times: 3
+	Query: "specificepithet:americanus genus:Anaxyrus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Plethodon stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Leptodeira septentrionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:gratiosa genus:Hyla stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:nicholsi genus:Sphaerodactylus institutioncode:UTEP" ; Times: 4
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:UTEP" ; Times: 4
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Crosby&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:scripta genus:trachemys hastissue:1" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "SAM 600" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "specificepithet:oreganus genus:crotalus stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "14370" ; Times: 2
+	Query: "class:Reptilia county:&#34;shelby&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "family:Colubridae locality:Chiricahua county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:pollicaris genus:Phyllopezus institutioncode:UTEP" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "Texas specificepithet:spiniferus genus:Trionyx" ; Times: 1
+	Query: "specificepithet:variegatus genus:Coleonyx county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:bombifrons order:Anura county:&#34;Terry&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Anolis country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "pituophis melanoleucus lodingi" ; Times: 1
+	Query: "genus:Callisaurus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "american toad" ; Times: 4
+	Query: "genus:sonora stateprovince:&#34;baja&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "mappable:1 scientificname:Pseudemys concinna" ; Times: 1
+	Query: "Texas specificepithet:rhombifer genus:Nerodia" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 3
+	Query: "specificepithet:viridis genus:Crotalus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "family:ambystomatidae stateprovince:&#34;north Carolina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 93 (out of 756 download events in this period)
+Total number of records downloaded: 3574
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 90
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 6
+	Date: 2020-08-17 ; Times: 27
+	Date: 2020-08-15 ; Times: 5
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-13 ; Times: 1
+	Date: 2020-08-11 ; Times: 4
+	Date: 2020-08-10 ; Times: 1
+	Date: 2020-08-31 ; Times: 4
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-27 ; Times: 2
+	Date: 2020-08-01 ; Times: 1
+	Date: 2020-08-02 ; Times: 2
+	Date: 2020-08-03 ; Times: 1
+	Date: 2020-08-04 ; Times: 4
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-28 ; Times: 1
+	Date: 2020-08-29 ; Times: 10
+	Date: 2020-08-08 ; Times: 6
+	Date: 2020-08-09 ; Times: 2
+	Date: 2020-08-25 ; Times: 1
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "sceloporus internasalis" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "Texas genus:Heterodon" ; Times: 1
+	Query: "Texas genus:Masticophis" ; Times: 1
+	Query: "genus:Incilius specificepithet:spiculatus" ; Times: 1
+	Query: "specificepithet:clarkii genus:sceloporus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "genus:Batrachoseps" ; Times: 1
+	Query: "genus:Hemidactylus hasmass:1" ; Times: 1
+	Query: "class:Amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "ninia diademata" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Mastigodryas melanolomus" ; Times: 1
+	Query: "vntype:specimen specificepithet:Viridis viridis genus:Crotalus year &gt;= 1970 year &lt;= 2020 haslength:1" ; Times: 1
+	Query: "Aspidoscelis motaguae" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Texas genus:Opheodrys" ; Times: 1
+	Query: "Texas specificepithet:nigriceps genus:Tantilla" ; Times: 1
+	Query: "coniophanes fissidens" ; Times: 1
+	Query: "ophisaurus attenuatus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "conophis vittatus" ; Times: 1
+	Query: "specificepithet:gentilis genus:Lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Texas specificepithet:muticus genus:Trionyx" ; Times: 1
+	Query: "class:reptilia locality:pecos river" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "Salvadora lemniscata" ; Times: 1
+	Query: "hypsiglena torquata" ; Times: 1
+	Query: "ninia sebae" ; Times: 1
+	Query: "leptodeira splendida" ; Times: 1
+	Query: "Texas genus:Arizona" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Plestiodon" ; Times: 1
+	Query: "Texas specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "stenorrhina degenhardtii" ; Times: 1
+	Query: "genus:scaphiopus hastissue:1" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 1
+	Query: "Texas specificepithet:proximus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:laticeps genus:Plestiodon" ; Times: 1
+	Query: "class:amphibia locality:pecos river" ; Times: 1
+	Query: "Texas specificepithet:chrysoscelis genus:Hyla" ; Times: 1
+	Query: "drymobius margaritiferus" ; Times: 1
+	Query: "Texas specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "Texas specificepithet:obsoletus genus:Pantherophis" ; Times: 1
+	Query: "Texas specificepithet:erythrogaster genus:Nerodia" ; Times: 1
+	Query: "Batrachoseps" ; Times: 2
+	Query: "crotalus horridus" ; Times: 2
+	Query: "symphimus leucostomus" ; Times: 1
+	Query: "Texas genus:Hypsiglena" ; Times: 1
+	Query: "imantodes gemmistratus" ; Times: 1
+	Query: "Texas specificepithet:flavescens genus:Kinosternon" ; Times: 1
+	Query: "Salvadora mexicana" ; Times: 1
+	Query: "vntype:specimen specificepithet:stansburiana genus:Uta" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "order:Testudines" ; Times: 2
+	Query: "Sceloporus graciosus" ; Times: 1
+	Query: "Texas specificepithet:cinerea genus:Hyla" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "imantodes cenchoa" ; Times: 1
+	Query: "trimorphodon biscutatus" ; Times: 1
+	Query: "Leptophis diplotropis" ; Times: 1
+	Query: "geophis laticinctus" ; Times: 1
+	Query: "heterodon platyrhinos" ; Times: 1
+	Query: "pseudoficimia frontalis" ; Times: 1
+	Query: "Texas genus:Chelydra" ; Times: 1
+	Query: "Texas specificepithet:bombifrons genus:Spea" ; Times: 1
+	Query: "stateprovince:&#34;North Carolina&#34; (amphiuma)" ; Times: 1
+	Query: "Texas specificepithet:clamitans genus:Lithobates" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Texas specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "leptodeira maculata" ; Times: 1
+	Query: "Texas genus:Pseudemys" ; Times: 1
+	Query: "Lampropeltis abnorma" ; Times: 1
+	Query: "cemophora coccinea" ; Times: 1
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "Texas specificepithet:palustris genus:Lithobates" ; Times: 1
+	Query: "Texas genus:Diadophis" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Plestiodon anthracinus" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Texas specificepithet:spiniferus genus:Trionyx" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 2
+	Query: "Texas specificepithet:rhombifer genus:Nerodia" ; Times: 1
+	Query: "Oxybelis fulgidus" ; Times: 1
+
+
+End of report.
